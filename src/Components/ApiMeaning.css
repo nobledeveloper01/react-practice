@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.api-container {
+    background-color: #1c09f7;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  .api-title {
+    color: #1101f7;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .api-content {
+    margin-top: 10px;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+  }
+  
+  
+  .api-list {
+    list-style-type: none;
+    padding: 15px;
+    background-color: rgb(200, 200, 214);
+    border-radius: 6px;
+    margin-bottom: 5px;
+  }
+  
+  .api-item {
+    color: #051b80;
+    margin-bottom: 5px;
+  }
+  
+  
+  

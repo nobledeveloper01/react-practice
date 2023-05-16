@@ -1,0 +1,41 @@
+.api-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .api-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .api-content {
+    margin-top: 10px;
+  }
+  
+  .api-description {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .api-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .api-item {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  /* .api-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer; */
+  }
+  
